@@ -1,5 +1,8 @@
 # DiscordRPC-AddOn
 
+Requirement:
+https://github.com/defaultatme/DiscordRPC-AddOnExtras
+
 A lightweight Firefox extension that shares your current website activity directly to your Discord Rich Presence. 
 
 Because web browsers restrict direct communication with local applications for security, this extension uses a small background Python bridge script to securely route your browser activity to Discord.
